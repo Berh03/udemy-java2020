@@ -1,0 +1,6 @@
+package entites;
+
+public class Product {
+	puvloc String name;
+	
+}

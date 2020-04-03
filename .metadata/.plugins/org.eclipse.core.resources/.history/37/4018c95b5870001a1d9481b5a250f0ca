@@ -1,0 +1,27 @@
+package modulo1;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class _53 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Locale.setDefault(Locale.US);
+		
+		double F,C;
+		String opcao;
+		
+		do {
+			System.out.print("Dígite a temperatura em Celsius: ");
+			C = sc.nextDouble();
+			F = (9*C)/5 + 32;
+			System.out.printf("\nEquilavente em Fahrenheit: %.1f",F);
+			System.out.print("\nDeseja repetir (s/n)? ");
+			opcao = sc.next();
+		}while(opcao == "s");
+			
+		sc.close();
+	}
+
+}

@@ -1,0 +1,37 @@
+package modulo1;
+
+import java.util.Scanner;
+
+public class _59 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int a,b,c,higher;
+		System.out.print("Dígite um numero: ");
+		a = sc.nextInt();
+		System.out.print("Dígite outro numero: ");
+		b = sc.nextInt();
+		System.out.print("Dígite outro numero: ");
+		c = sc.nextInt();
+		
+		higher=max(a,b,c);
+		
+		showResult(higher);
+	 	
+		sc.close();
+	}
+	
+	public static int max(int x, int y, int z) {
+		int = aux;
+		
+		if(x > y && x > z) {
+			System.out.println("Maior: "+a);
+		}else if(y > x) {
+			System.out.println("Maior: "+b);
+		}else {
+			System.out.println("Maior: "+c);
+		}
+	}
+
+}
