@@ -36,6 +36,16 @@ public class Program {
 			acc5.updateBalance();
 			System.out.println("Update!");
 		}
+		if (acc1 instanceof SavingsAccount) {
+			SavingsAccount acc5 = (SavingsAccount)acc3;
+			acc5.updateBalance();
+			System.out.println("Update!");
+		}
+		if (acc instanceof SavingsAccount) {
+			SavingsAccount acc5 = (SavingsAccount)acc3;
+			acc5.updateBalance();
+			System.out.println("Update!");
+		}
 	}
 
 }
