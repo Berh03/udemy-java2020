@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="entities.Order"/>
-    <fullyQualifiedTypeName name="entities.OutsourcedEmployee"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="entities.UsedProduct"/>
-    <fullyQualifiedTypeName name="entities.ImportedProduct"/>
-    <fullyQualifiedTypeName name="entities.Account"/>
-    <fullyQualifiedTypeName name="entities.SavingsAccount"/>
     <fullyQualifiedTypeName name="entities.BusinessAccount"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="entities.Shape"/>
     <fullyQualifiedTypeName name="entities.Individual"/>
     <fullyQualifiedTypeName name="entities.Company"/>
@@ -25,10 +17,6 @@
     <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.asm.amd64.AMD64Assembler.ImmediateOperandAnnotation"/>
     <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="entities.Product"/>
     <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="model.entities.Invoice"/>
@@ -38,13 +26,8 @@
     <fullyQualifiedTypeName name="model.services.BrazilTaxService"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="model.services.TaxService"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="model.services.OnlinePaymentService"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
@@ -60,4 +43,21 @@
     <fullyQualifiedTypeName name="model.entities.Shape"/>
     <fullyQualifiedTypeName name="model.entities.AbstractShape"/>
     <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="java.security.InvalidParameterException"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="services.UsaInterestService"/>
+    <fullyQualifiedTypeName name="services.InterestService"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="services.PrintService"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="services.CalculationService"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
 </qualifiedTypeNameHistroy>
