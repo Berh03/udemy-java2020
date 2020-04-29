@@ -1,4 +1,4 @@
-package entities;
+package model.entities;
 
 public class Product {
 
@@ -21,7 +21,7 @@ public class Product {
 	public Double getPrice() {
 		return price;
 	}
-
+ 
 	public void setPrice(Double price) {
 		this.price = price;
 	}
