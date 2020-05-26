@@ -22,6 +22,7 @@ public class Program {
 		System.out.print("Enter the full file path: ");
 		String path = sc.nextLine();
 		
+		
 		try(BufferedReader br = new BufferedReader(new FileReader(path))){
 			
 			List<Product> list = new ArrayList<>();
