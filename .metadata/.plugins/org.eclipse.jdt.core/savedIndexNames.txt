@@ -1,4 +1,2 @@
 INDEX VERSION 1.131+C:\Users\Berhk\OneDrive\Documents\Udemy\Java 2020\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
-1260757534.index
-2103231971.index
-420590311.index
+3836292384.index
